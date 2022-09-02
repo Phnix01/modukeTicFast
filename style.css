@@ -1,0 +1,111 @@
+.red {
+  color: red;
+}
+
+.btn {
+  color: #fff;
+  background-color: #9340ff;
+  padding: 3%;
+  margin-left: 2%;
+}
+
+body {
+  background-color: #101723;
+  color: #fff;
+}
+
+.purple-bg {
+  background-color: #9340ff;
+}
+
+h1 {
+  color: #9340ff;
+}
+
+.omarLink {
+  text-align: center;
+  font-size: 16px;
+}
+
+.omarLink a {
+  text-decoration: none;
+}
+
+.veryRounder {
+  border-radius: 30%;
+}
+
+.bookImg, .imgRounder {
+  border-radius: 5%;
+}
+
+.nav-link {
+  color: #fff;
+  font-size: 1.4em;
+  font-family: 'Rubik', sans-serif;
+}
+
+.nav-link:hover {
+  color: #9340ff;
+}
+
+#descriptionDiv {
+  text-align: center;
+  padding: 10% 7%;
+}
+
+#coursDownloadSection {
+  text-align: center;
+  padding: 5% 7%;
+  border-top: 5px solid #9340ff;
+}
+
+#coursDownloadSection h1 {
+  line-height: 4;
+  font-size: 3em;
+}
+
+.linkDiv {
+  margin-top: 10%;
+}
+
+#rstEcoute {
+  text-align: center;
+  padding: 5% 7%;
+  padding-bottom: 0%;
+}
+
+#rstEcoute h1 {
+  line-height: 3;
+}
+
+#rstEcoute p {
+  text-align: left;
+  font-size: 22px;
+}
+
+#profSection {
+  padding: 7% 7%;
+}
+
+#profSection img {
+  margin-left: 30%;
+}
+
+.socialItem {
+  margin-left: 2%;
+  font-size: 2em;
+}
+
+.socialItem:hover {
+  color: #9340ff;
+}
+
+.youtube:hover {
+  color: red;
+}
+
+.facebook:hover {
+  color: #fff;
+}
+/*# sourceMappingURL=style.css.map */
